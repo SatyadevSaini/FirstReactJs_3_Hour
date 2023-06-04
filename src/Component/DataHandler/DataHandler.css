@@ -1,0 +1,31 @@
+
+
+.PrintData{
+    padding-top: 1rem;
+    color: aliceblue;
+    text-align: center;
+    background-color: darkcyan;
+    padding-bottom: 0.5rem;
+
+}
+.main{
+    text-align: center;
+    font-size: 3.5rem;
+    color: beige;
+    font-weight: bold;
+}
+
+.SkinCare{
+    color: aqua;
+    text-align: center;
+}
+
+.Electronics{
+    color: red;
+    text-align: center;
+}
+
+.Food-Item{
+    color: rgb(85, 240, 85);
+    text-align: center;
+}
